@@ -86,11 +86,11 @@
 }
 
 .carousel .item.active {
-    margin-left: 2px;
+    margin-left: 1px;
 }
 
 .carousel .item {
-    margin-left: -2px;
+    margin-left: -1px;
 }
 
 
