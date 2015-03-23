@@ -85,9 +85,14 @@
     margin-top: 12px;
 }
 
-.carousel {
-    background: #00ADEF;
+.carousel .item.active {
+    margin-left: 2px;
 }
+
+.carousel .item {
+    margin-left: -2px;
+}
+
 
 .tile-content.negative {
     background: #F5515F;
