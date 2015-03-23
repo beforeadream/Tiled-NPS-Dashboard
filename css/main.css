@@ -1,0 +1,99 @@
+.tile {
+    padding: 5px;
+    font-family: 'Lato', sans-serif;
+    color: #FFFFFF;
+}
+
+.tile p {
+    color: #2f2f2f;
+}
+
+.positive .usermessage,
+.positive .userinfo {
+    color: #2f2f2f;
+}
+
+.tile-content {
+    padding: 10px;
+    background: #00ADEF;
+    min-height: 214px;
+    max-height: 214px;
+    overflow: hidden;
+}
+
+.col-xs-4 .col-xs-6 .tile-content {
+    min-height: 102px;
+}
+
+.col-xs-4 .col-xs-6 .tile-content .title {
+    font-size: 10px;
+    line-height: normal;
+}
+
+.col-xs-4 .col-xs-6 .tile-content .number {
+    font-size: 36px;
+    margin-left: -10px;
+}
+
+.col-xs-4 .col-xs-6 .tile-content .tile-tip {
+    position: absolute;
+    font-size: 24px;
+    bottom: -5px;
+    right: 5px;
+}
+
+.tile .title {
+    font-size: 14px;
+    letter-spacing: 0.4px;
+    line-height: 19px;
+    text-transform: uppercase;
+    padding-bottom: 6px;
+    display: block;
+    color: #ffffff;
+}
+
+.tile .tile-tip {
+    position: absolute;
+    font-size: 48px;
+    bottom: -5px;
+    right: 15px;
+}
+
+.tile .number {
+    font-weight: 300;
+    font-size: 72px;
+    line-height: 98px;
+    position: absolute;
+    top: 50%;
+    margin-top: -49px;
+    margin-left: -15px;
+    text-align: center;
+    width: 100%;
+}
+
+.tile .item {
+    padding: 0;
+    margin: 0;
+    border: none;
+}
+
+.userinfo {
+    margin-left: 12px;
+}
+
+.usermessage {
+    margin-top: 12px;
+}
+
+.carousel {
+    background: #00ADEF;
+}
+
+.tile-content.negative {
+    background: #F5515F;
+}
+
+.tile-content.positive {
+    background: #B8E986;
+}
+
