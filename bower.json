@@ -1,0 +1,30 @@
+{
+  "name": "Tiled-NPS-Dashboard",
+  "homepage": "https://github.com/beforeadream/Tiled-NPS-Dashboard",
+  "authors": [
+    "Valery Lyatsevich <beforeadream@gmail.com>"
+  ],
+  "description": "Net Promoter Score Tiled Dashboard",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "dashboard",
+    "tiles",
+    "nps",
+    "interactive"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "jquery": "~2.2.0",
+    "Ionicons": "ionicons#~2.0.1"
+  }
+}
