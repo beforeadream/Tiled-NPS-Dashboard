@@ -1,6 +1,6 @@
 # Tiled NPS Dashboard
 
-Net Promoter Score Tiled Dashboard
+Tiled Net Promoter Score Dashboard
 
 ![](img/cover.gif)
 
